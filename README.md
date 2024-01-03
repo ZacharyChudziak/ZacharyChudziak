@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]("https://github.com/ZacharyChudziak/Azure-AD-Deployment")
+  - [Configuring On-premises Active Directory within Azure VMs](src="https://github.com/ZacharyChudziak/Azure-AD-Deployment")
 
 
 <h2>🤳Connect with me:</h2>
